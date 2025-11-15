@@ -24,3 +24,7 @@ Perfect for exercising clean logic, minimal design & Rust basics.
 ## 💡 Fun fact
 True code elegance is when even the smallest utility has clarity, balance, and purpose.  
 An anagram: simple letters, infinite combinations—like code, it’s all about the right arrangement.
+
+---
+
+If you spot anything that could be written in a more idiomatic or elegant Rust style, I’m always curious to understand why.
